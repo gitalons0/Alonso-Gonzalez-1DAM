@@ -1,7 +1,7 @@
-#ÍNDICE
+# ÍNDICE
 * [Lista sin ordenar](#lista1)
 * [Lista ordenada](#lista2)
-* [Tipografías](#tipografia)0
+* [Tipografías](#tipografia)
 * [Código](#codigo)
 * [Lista con marca](#lista3)
 * [Tablas](#tabla)
