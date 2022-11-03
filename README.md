@@ -27,7 +27,7 @@
 - ~~Esto es letra rayada~~
 
 #### **Código Java**<a name="codigo">
-```
+```java
  private static void vocales() {
 		char caracter;
 		do {
